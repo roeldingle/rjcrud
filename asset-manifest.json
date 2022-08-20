@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rjcrud/static/css/main.b615beda.css",
+    "main.js": "/rjcrud/static/js/main.6844626f.js",
+    "index.html": "/rjcrud/index.html",
+    "main.b615beda.css.map": "/rjcrud/static/css/main.b615beda.css.map",
+    "main.6844626f.js.map": "/rjcrud/static/js/main.6844626f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b615beda.css",
+    "static/js/main.6844626f.js"
+  ]
+}
